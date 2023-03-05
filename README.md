@@ -15,12 +15,12 @@ npx hello-manan
 [yargs](https://github.com/yargs/yargs) |
 [chalk](https://github.com/chalk/chalk) | 
 [inquirer](https://github.com/SBoudrias/Inquirer.js) |
-[terminal-kit](https://github.com/cronvel/terminal-kit)
+[terminal-kit](https://github.com/cronvel/terminal-kit) |
 [gradient-string](https://github.com/bokub/gradient-string) |
 [chalk-animation](https://github.com/bokub/chalk-animation) |
 [figlet](https://github.com/patorjk/figlet.js) |
 [boxen](https://github.com/sindresorhus/boxen) |
-[cli-table3](https://github.com/cli-table/cli-table3) |
+[cli-table3](https://github.com/cli-table/cli-table3)
 
 
 ```sh
